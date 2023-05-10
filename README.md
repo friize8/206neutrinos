@@ -1,1 +1,3 @@
-# 206neutrinos
+206neutrinos
+
+Maths Epitech project
